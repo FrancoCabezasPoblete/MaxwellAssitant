@@ -1,0 +1,7 @@
+pyttsx3
+speechrecognition
+wolframalpha
+pygame
+pywhatkit
+revChatGPT
+python-dotenv
